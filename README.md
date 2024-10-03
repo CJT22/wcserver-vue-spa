@@ -1,6 +1,6 @@
-# finals-lab-activity-4
+# A Finals Lab Activity in 6WCSERVER
 
-> A Vue.js project
+> This Vue.js project serves as the 4th lab activity for our finals period in Web Server and Client Services.
 
 ## Build Setup
 
